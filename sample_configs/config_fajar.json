@@ -1,0 +1,5 @@
+{
+  "pipeline": "spacy_sklearn",
+  "path" : "./projects",
+  "data" : "./data/rasa_fajar/test_nlp_fajar/nlp-fajar.json"
+}
